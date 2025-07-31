@@ -2,6 +2,8 @@
 
 Welcome to the **ultimate Tarkov Cheat** repository on GitHub – your one-stop destination to explore how modern game enhancements are developed and implemented in Tarkov. This project is packed with powerful features such as **Aimbot**, **ESP**, **Wallhack**, **Triggerbot**, **No Recoil**, along with an advanced **HWID Spoofer** and a convenient **Unlock All Tool**.
 
+![tarkov](https://www.theloadout.com/wp-content/sites/theloadout/2023/03/escape-from-tarkov-cheaters-battleye-anti-cheat-battlestate-games.jpg)
+
 > [![Download Now](https://img.shields.io/badge/Download%20-now-blue?style=for-the-badge&logo=windows)]() 
 
 > 🚀 Whether you're a developer, researcher, or enthusiast, this project reveals the underlying mechanisms of cheats in a high-security AAA title like Tarkov.
